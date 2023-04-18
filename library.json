@@ -1,0 +1,24 @@
+{
+  "title": "H5P Form",
+  "description": "H5P Form Content Type",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 0,
+  "runnable": 1,
+  "author": "Nathan Loudon",
+  "license": "MIT",
+  "machineName": "H5P.Form",
+  "embedTypes": [
+    "div"
+  ],
+  "preloadedJs": [
+    {
+      "path": "dist/h5p-form.js"
+    }
+  ],
+  "preloadedCss": [
+    {
+      "path": "dist/h5p-form.css"
+    }
+  ]
+}
